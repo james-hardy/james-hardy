@@ -1,4 +1,4 @@
-### Supercharging the React ecosystem with projects and products like:
+### Supercharging the React/Node ecosystem with projects and products like:
 - ⚛️ React Query
 - ⚛️ React Table
 - ⚛️ React Charts
