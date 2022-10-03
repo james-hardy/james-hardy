@@ -33,4 +33,4 @@ The latest recorded stats for all TanStack properties:
 - Over 2 million monthly downloads on NPM
 - Over 18k personal stars on Github (50k+ external star contributions)
 
-If you have any further questions, feel free to send me a message to my [email](mailto:fletchert529@gmail.com). Thanks!
+If you have any further questions, feel free to send me a message to my [email](mailto:parkerjakejohn127@gmail.com). Thanks!
